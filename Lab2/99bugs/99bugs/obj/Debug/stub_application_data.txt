@@ -1,0 +1,2 @@
+android.app.Application
+x_99bugs.x_99bugs

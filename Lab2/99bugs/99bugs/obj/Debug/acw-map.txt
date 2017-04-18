@@ -1,0 +1,8 @@
+_99bugs.FirstActivity, 99bugs;md587d83e78e3ebf742f86d155d7615351c.FirstActivity
+_99bugs.FirstActivity, 99bugs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md587d83e78e3ebf742f86d155d7615351c.FirstActivity
+_99bugs.FirstActivity;md587d83e78e3ebf742f86d155d7615351c.FirstActivity
+_99bugs.FirstActivity;md587d83e78e3ebf742f86d155d7615351c.FirstActivity
+_99bugs.SecondActivity, 99bugs;md587d83e78e3ebf742f86d155d7615351c.SecondActivity
+_99bugs.SecondActivity, 99bugs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md587d83e78e3ebf742f86d155d7615351c.SecondActivity
+_99bugs.SecondActivity;md587d83e78e3ebf742f86d155d7615351c.SecondActivity
+_99bugs.SecondActivity;md587d83e78e3ebf742f86d155d7615351c.SecondActivity
