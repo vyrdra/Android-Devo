@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/patchBtn" />
     <TextView
-        android:text="Bugs remaining:"
+        android:text="Bugs taken down:"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
