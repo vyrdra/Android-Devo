@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="helloButtonText">Say Hello</string>
+    <string name="helloLabelText">Hello, Xamarin Android</string>
+    <string name="helloLabel2"></string>
+    <string name="clearButton">Clear</string>
+    <string name="ApplicationName">HelloAndroid.XML</string>
+</resources>

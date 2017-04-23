@@ -1,0 +1,14 @@
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\bin\Debug\HelloAndroid.dll
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\bin\Debug\HelloAndroid.pdb
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\bin\Debug\HelloAndroid.HelloAndroid.apk
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\bin\Debug\HelloAndroid.HelloAndroid-Signed.apk
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\obj\Debug\HelloAndroid.dll
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\obj\Debug\HelloAndroid.pdb
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\obj\Debug\android\bin\HelloAndroid.HelloAndroid.apk
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\obj\Debug\res\layout\main.xml
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\obj\Debug\res\values\strings.xml
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\obj\Debug\R.cs.flag
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\obj\Debug\uploadflags.txt
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\obj\Debug\HelloAndroid.dll.mdb
+C:\Users\Aaron\Desktop\AndroidDevo\Lab1\HelloAndroid-Lab1-Otterstetter\HelloAndroid\bin\Debug\HelloAndroid.dll.mdb

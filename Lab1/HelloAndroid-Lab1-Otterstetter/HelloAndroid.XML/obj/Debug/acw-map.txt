@@ -1,0 +1,4 @@
+HelloAndroid.XML.MainActivity, HelloAndroid.XML;md57c5a3af7eb9eef0a6d957d7ce6250d4a.MainActivity
+HelloAndroid.XML.MainActivity, HelloAndroid.XML, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57c5a3af7eb9eef0a6d957d7ce6250d4a.MainActivity
+HelloAndroid.XML.MainActivity;md57c5a3af7eb9eef0a6d957d7ce6250d4a.MainActivity
+helloandroid.xml.MainActivity;md57c5a3af7eb9eef0a6d957d7ce6250d4a.MainActivity
