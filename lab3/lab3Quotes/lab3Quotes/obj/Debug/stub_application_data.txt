@@ -1,0 +1,2 @@
+android.app.Application
+lab3Quotes.lab3Quotes

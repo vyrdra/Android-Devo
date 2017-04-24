@@ -1,0 +1,4 @@
+lab3Quotes.MainActivity, lab3Quotes;md5d8cf9c80a83f142b8ad308fd49adc9ae.MainActivity
+lab3Quotes.MainActivity, lab3Quotes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d8cf9c80a83f142b8ad308fd49adc9ae.MainActivity
+lab3Quotes.MainActivity;md5d8cf9c80a83f142b8ad308fd49adc9ae.MainActivity
+lab3quotes.MainActivity;md5d8cf9c80a83f142b8ad308fd49adc9ae.MainActivity
