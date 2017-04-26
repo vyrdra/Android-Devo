@@ -38,5 +38,6 @@ C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\obj\Debug\android\
 C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\obj\Debug\lab3Quotes.csprojResolveAssemblyReference.cache
 C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\obj\Debug\lab3Quotes.dll.mdb
 C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\bin\Debug\lab3Quotes.dll.mdb

@@ -3,7 +3,6 @@ using Android.Widget;
 using Android.OS;
 using System.Xml.Serialization;
 using System.IO;
-using static lab3Quotes.Quiz;
 using System;
 
 namespace lab3Quotes
@@ -52,7 +51,7 @@ namespace lab3Quotes
                 }
                 else
                 {
-                    score = score;
+                    
                     scoreText.Text = "Score: " + score;
                     answerText.Text = "Sorry the correct answer is " + quoteMaster.GetAuthor(r);
 

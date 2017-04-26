@@ -12,12 +12,22 @@ using Android.Widget;
 
 namespace lab3Quotes
 {
-    class Quiz
-    {
         public class Quote
         {
+            private string author;
             public string Body { get; set; }
-            public string Author { get; set; }
+            public string Author
+            {
+                get
+                {
+                    return author.ToLower();
+                }
+                set
+                {
+                    author = value.ToLower().Trim();
+                }
+            }
+
             public int QuoteID { get; set; }
         }
 
@@ -87,7 +97,8 @@ namespace lab3Quotes
 
             public bool GetQuoteAnswer(Quote q, string ans)
             {
-               if (q.Author == ans)
+
+               if (q.Author == ans.ToLower().Trim())
                 {
                     return true;
                 }
@@ -100,7 +111,5 @@ namespace lab3Quotes
 
             
 
-        }
-
-    }
+        } 
 }
