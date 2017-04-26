@@ -2,7 +2,6 @@ C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\bin\Debug\lab3Quot
 C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\bin\Debug\lab3Quotes.pdb
 C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\bin\Debug\lab3Quotes.lab3Quotes.apk
 C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\bin\Debug\lab3Quotes.lab3Quotes-Signed.apk
-C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\obj\Debug\lab3Quotes.csprojResolveAssemblyReference.cache
 C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\obj\Debug\lab3Quotes.dll
 C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\obj\Debug\lab3Quotes.pdb
 C:\Users\Aaron\Desktop\AndroidDevo\lab3\lab3Quotes\lab3Quotes\obj\Debug\android\bin\lab3Quotes.lab3Quotes.apk

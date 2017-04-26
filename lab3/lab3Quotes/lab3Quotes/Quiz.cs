@@ -37,12 +37,12 @@ namespace lab3Quotes
            
             public QuoteMaster(string dummy)
             {
-                quotes.Add(new Quote() { QuoteID = 1 , Body = "My mission in life is not merely to survive, but to thrive, and to do so with some passion, some compassion, some humor, and some style.", Author = "maya angelou" });
+                quotes.Add(new Quote() { QuoteID = 1 , Body = "My mission in life is not merely to survive, but to thrive, and to do so with some passion, some compassion, some humor, and some style.", Author = "Maya Angelou" });
                 quotes.Add(new Quote() { QuoteID = 2, Body = "Things work out best for those who make the best of how things work out.", Author = "John Wooden" });
-                quotes.Add(new Quote() { QuoteID = 3, Body = "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.", Author = "albert einstein" });
-                quotes.Add(new Quote() { QuoteID = 4, Body = "It does not matter how slowly you go, so long as you do not stop.", Author = "confucius" });
-                quotes.Add(new Quote() { QuoteID = 5, Body = "Success is walking from failure to failure with no loss of enthusiasm.", Author = "winston churchill" });
-                quotes.Add(new Quote() { QuoteID = 6, Body = "Don't cry because it's over, smile because it happened.", Author = "dr. seuss" });
+                quotes.Add(new Quote() { QuoteID = 3, Body = "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.", Author = "Albert Einstein" });
+                quotes.Add(new Quote() { QuoteID = 4, Body = "It does not matter how slowly you go, so long as you do not stop.", Author = "Confucius" });
+                quotes.Add(new Quote() { QuoteID = 5, Body = "Success is walking from failure to failure with no loss of enthusiasm.", Author = "Winston Churchill" });
+                quotes.Add(new Quote() { QuoteID = 6, Body = "Don't cry because it's over, smile because it happened.", Author = "Dr. Seuss" });
                 
             }
 
