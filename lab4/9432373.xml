@@ -1,0 +1,1508 @@
+
+	<datainfo>
+		<origin>NOAA/NOS/CO-OPS</origin>
+		<disclaimer>
+		Disclaimer: These data are based upon the latest information available as of the date of your request, and may differ from the published tide tables.
+		</disclaimer>
+	<datarange>Daily</datarange>
+		<producttype>Tide Prediction</producttype>
+		<stationname>BANDON, COQUILLE RIVER</stationname>
+		<state>OR</state>
+		<stationid>9432373</stationid>
+	
+		<stationtype>Subordinate</stationtype>
+		<referencedToStationName>Charleston</referencedToStationName>
+		<referencedToStationId>9432780</referencedToStationId>
+		<HeightOffsetLow>* 0.94</HeightOffsetLow>
+		<HeightOffsetHigh>* 0.92</HeightOffsetHigh>
+		<TimeOffsetLow>2</TimeOffsetLow>
+		<TimeOffsetHigh>-5</TimeOffsetHigh>
+		
+		<BeginDate>20170508 05:38</BeginDate>
+		<EndDate>20170608 18:17</EndDate>
+		
+		<dataUnits>Feet</dataUnits>
+		 
+	<Timezone>LST_LDT</Timezone>
+	<Datum>MLLW</Datum>
+	<IntervalType>High/Low</IntervalType>
+	<data>
+	
+			<item>
+				<date>2017/05/08</date>
+				<day>Mon</day>
+		
+				<time>05:38 AM</time>
+			
+				<pred>0.29</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/08</date>
+				<day>Mon</day>
+		
+				<time>11:46 AM</time>
+			
+				<pred>5.78</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/08</date>
+				<day>Mon</day>
+		
+				<time>05:33 PM</time>
+			
+				<pred>1.42</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/08</date>
+				<day>Mon</day>
+		
+				<time>11:40 PM</time>
+			
+				<pred>6.97</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/09</date>
+				<day>Tue</day>
+		
+				<time>06:17 AM</time>
+			
+				<pred>-0.09</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/09</date>
+				<day>Tue</day>
+		
+				<time>12:30 PM</time>
+			
+				<pred>5.85</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/09</date>
+				<day>Tue</day>
+		
+				<time>06:10 PM</time>
+			
+				<pred>1.67</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/10</date>
+				<day>Wed</day>
+		
+				<time>12:11 AM</time>
+			
+				<pred>7.03</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/10</date>
+				<day>Wed</day>
+		
+				<time>06:52 AM</time>
+			
+				<pred>-0.36</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/10</date>
+				<day>Wed</day>
+		
+				<time>01:11 PM</time>
+			
+				<pred>5.88</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/10</date>
+				<day>Wed</day>
+		
+				<time>06:46 PM</time>
+			
+				<pred>1.93</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/11</date>
+				<day>Thu</day>
+		
+				<time>12:42 AM</time>
+			
+				<pred>7.02</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/11</date>
+				<day>Thu</day>
+		
+				<time>07:27 AM</time>
+			
+				<pred>-0.52</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/11</date>
+				<day>Thu</day>
+		
+				<time>01:50 PM</time>
+			
+				<pred>5.87</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/11</date>
+				<day>Thu</day>
+		
+				<time>07:20 PM</time>
+			
+				<pred>2.19</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/12</date>
+				<day>Fri</day>
+		
+				<time>01:12 AM</time>
+			
+				<pred>6.95</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/12</date>
+				<day>Fri</day>
+		
+				<time>08:01 AM</time>
+			
+				<pred>-0.56</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/12</date>
+				<day>Fri</day>
+		
+				<time>02:29 PM</time>
+			
+				<pred>5.80</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/12</date>
+				<day>Fri</day>
+		
+				<time>07:55 PM</time>
+			
+				<pred>2.44</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/13</date>
+				<day>Sat</day>
+		
+				<time>01:43 AM</time>
+			
+				<pred>6.81</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/13</date>
+				<day>Sat</day>
+		
+				<time>08:36 AM</time>
+			
+				<pred>-0.50</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/13</date>
+				<day>Sat</day>
+		
+				<time>03:09 PM</time>
+			
+				<pred>5.69</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/13</date>
+				<day>Sat</day>
+		
+				<time>08:30 PM</time>
+			
+				<pred>2.69</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/14</date>
+				<day>Sun</day>
+		
+				<time>02:15 AM</time>
+			
+				<pred>6.61</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/14</date>
+				<day>Sun</day>
+		
+				<time>09:13 AM</time>
+			
+				<pred>-0.37</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/14</date>
+				<day>Sun</day>
+		
+				<time>03:51 PM</time>
+			
+				<pred>5.55</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/14</date>
+				<day>Sun</day>
+		
+				<time>09:09 PM</time>
+			
+				<pred>2.91</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/15</date>
+				<day>Mon</day>
+		
+				<time>02:50 AM</time>
+			
+				<pred>6.35</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/15</date>
+				<day>Mon</day>
+		
+				<time>09:53 AM</time>
+			
+				<pred>-0.17</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/15</date>
+				<day>Mon</day>
+		
+				<time>04:37 PM</time>
+			
+				<pred>5.41</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/15</date>
+				<day>Mon</day>
+		
+				<time>09:52 PM</time>
+			
+				<pred>3.10</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/16</date>
+				<day>Tue</day>
+		
+				<time>03:30 AM</time>
+			
+				<pred>6.05</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/16</date>
+				<day>Tue</day>
+		
+				<time>10:36 AM</time>
+			
+				<pred>0.07</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/16</date>
+				<day>Tue</day>
+		
+				<time>05:27 PM</time>
+			
+				<pred>5.32</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/16</date>
+				<day>Tue</day>
+		
+				<time>10:45 PM</time>
+			
+				<pred>3.21</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/17</date>
+				<day>Wed</day>
+		
+				<time>04:17 AM</time>
+			
+				<pred>5.72</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/17</date>
+				<day>Wed</day>
+		
+				<time>11:24 AM</time>
+			
+				<pred>0.31</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/17</date>
+				<day>Wed</day>
+		
+				<time>06:20 PM</time>
+			
+				<pred>5.34</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/17</date>
+				<day>Wed</day>
+		
+				<time>11:50 PM</time>
+			
+				<pred>3.17</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/18</date>
+				<day>Thu</day>
+		
+				<time>05:17 AM</time>
+			
+				<pred>5.40</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/18</date>
+				<day>Thu</day>
+		
+				<time>12:17 PM</time>
+			
+				<pred>0.54</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/18</date>
+				<day>Thu</day>
+		
+				<time>07:13 PM</time>
+			
+				<pred>5.48</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/19</date>
+				<day>Fri</day>
+		
+				<time>01:03 AM</time>
+			
+				<pred>2.90</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/19</date>
+				<day>Fri</day>
+		
+				<time>06:29 AM</time>
+			
+				<pred>5.16</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/19</date>
+				<day>Fri</day>
+		
+				<time>01:14 PM</time>
+			
+				<pred>0.73</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/19</date>
+				<day>Fri</day>
+		
+				<time>08:04 PM</time>
+			
+				<pred>5.77</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/20</date>
+				<day>Sat</day>
+		
+				<time>02:12 AM</time>
+			
+				<pred>2.36</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/20</date>
+				<day>Sat</day>
+		
+				<time>07:47 AM</time>
+			
+				<pred>5.10</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/20</date>
+				<day>Sat</day>
+		
+				<time>02:12 PM</time>
+			
+				<pred>0.87</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/20</date>
+				<day>Sat</day>
+		
+				<time>08:51 PM</time>
+			
+				<pred>6.18</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/21</date>
+				<day>Sun</day>
+		
+				<time>03:14 AM</time>
+			
+				<pred>1.59</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/21</date>
+				<day>Sun</day>
+		
+				<time>09:00 AM</time>
+			
+				<pred>5.24</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/21</date>
+				<day>Sun</day>
+		
+				<time>03:07 PM</time>
+			
+				<pred>0.99</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/21</date>
+				<day>Sun</day>
+		
+				<time>09:34 PM</time>
+			
+				<pred>6.67</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/22</date>
+				<day>Mon</day>
+		
+				<time>04:08 AM</time>
+			
+				<pred>0.69</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/22</date>
+				<day>Mon</day>
+		
+				<time>10:06 AM</time>
+			
+				<pred>5.51</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/22</date>
+				<day>Mon</day>
+		
+				<time>04:00 PM</time>
+			
+				<pred>1.10</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/22</date>
+				<day>Mon</day>
+		
+				<time>10:17 PM</time>
+			
+				<pred>7.18</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/23</date>
+				<day>Tue</day>
+		
+				<time>04:58 AM</time>
+			
+				<pred>-0.23</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/23</date>
+				<day>Tue</day>
+		
+				<time>11:07 AM</time>
+			
+				<pred>5.84</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/23</date>
+				<day>Tue</day>
+		
+				<time>04:50 PM</time>
+			
+				<pred>1.23</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/23</date>
+				<day>Tue</day>
+		
+				<time>10:59 PM</time>
+			
+				<pred>7.65</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/24</date>
+				<day>Wed</day>
+		
+				<time>05:46 AM</time>
+			
+				<pred>-1.06</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/24</date>
+				<day>Wed</day>
+		
+				<time>12:03 PM</time>
+			
+				<pred>6.14</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/24</date>
+				<day>Wed</day>
+		
+				<time>05:38 PM</time>
+			
+				<pred>1.38</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/24</date>
+				<day>Wed</day>
+		
+				<time>11:42 PM</time>
+			
+				<pred>8.02</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/25</date>
+				<day>Thu</day>
+		
+				<time>06:33 AM</time>
+			
+				<pred>-1.71</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/25</date>
+				<day>Thu</day>
+		
+				<time>12:57 PM</time>
+			
+				<pred>6.36</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/25</date>
+				<day>Thu</day>
+		
+				<time>06:27 PM</time>
+			
+				<pred>1.55</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/26</date>
+				<day>Fri</day>
+		
+				<time>12:27 AM</time>
+			
+				<pred>8.22</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/26</date>
+				<day>Fri</day>
+		
+				<time>07:21 AM</time>
+			
+				<pred>-2.11</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/26</date>
+				<day>Fri</day>
+		
+				<time>01:50 PM</time>
+			
+				<pred>6.47</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/26</date>
+				<day>Fri</day>
+		
+				<time>07:16 PM</time>
+			
+				<pred>1.74</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/27</date>
+				<day>Sat</day>
+		
+				<time>01:13 AM</time>
+			
+				<pred>8.22</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/27</date>
+				<day>Sat</day>
+		
+				<time>08:09 AM</time>
+			
+				<pred>-2.23</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/27</date>
+				<day>Sat</day>
+		
+				<time>02:42 PM</time>
+			
+				<pred>6.48</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/27</date>
+				<day>Sat</day>
+		
+				<time>08:07 PM</time>
+			
+				<pred>1.94</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/28</date>
+				<day>Sun</day>
+		
+				<time>02:01 AM</time>
+			
+				<pred>7.99</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/28</date>
+				<day>Sun</day>
+		
+				<time>08:58 AM</time>
+			
+				<pred>-2.07</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/28</date>
+				<day>Sun</day>
+		
+				<time>03:36 PM</time>
+			
+				<pred>6.41</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/28</date>
+				<day>Sun</day>
+		
+				<time>09:02 PM</time>
+			
+				<pred>2.15</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/29</date>
+				<day>Mon</day>
+		
+				<time>02:52 AM</time>
+			
+				<pred>7.55</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/29</date>
+				<day>Mon</day>
+		
+				<time>09:49 AM</time>
+			
+				<pred>-1.69</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/29</date>
+				<day>Mon</day>
+		
+				<time>04:31 PM</time>
+			
+				<pred>6.30</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/29</date>
+				<day>Mon</day>
+		
+				<time>10:01 PM</time>
+			
+				<pred>2.32</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/30</date>
+				<day>Tue</day>
+		
+				<time>03:47 AM</time>
+			
+				<pred>6.95</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/30</date>
+				<day>Tue</day>
+		
+				<time>10:42 AM</time>
+			
+				<pred>-1.14</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/30</date>
+				<day>Tue</day>
+		
+				<time>05:28 PM</time>
+			
+				<pred>6.22</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/30</date>
+				<day>Tue</day>
+		
+				<time>11:07 PM</time>
+			
+				<pred>2.40</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/31</date>
+				<day>Wed</day>
+		
+				<time>04:48 AM</time>
+			
+				<pred>6.28</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/31</date>
+				<day>Wed</day>
+		
+				<time>11:38 AM</time>
+			
+				<pred>-0.51</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/05/31</date>
+				<day>Wed</day>
+		
+				<time>06:26 PM</time>
+			
+				<pred>6.19</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/01</date>
+				<day>Thu</day>
+		
+				<time>12:21 AM</time>
+			
+				<pred>2.31</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/01</date>
+				<day>Thu</day>
+		
+				<time>05:57 AM</time>
+			
+				<pred>5.64</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/01</date>
+				<day>Thu</day>
+		
+				<time>12:36 PM</time>
+			
+				<pred>0.11</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/01</date>
+				<day>Thu</day>
+		
+				<time>07:23 PM</time>
+			
+				<pred>6.24</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/02</date>
+				<day>Fri</day>
+		
+				<time>01:36 AM</time>
+			
+				<pred>2.01</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/02</date>
+				<day>Fri</day>
+		
+				<time>07:12 AM</time>
+			
+				<pred>5.17</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/02</date>
+				<day>Fri</day>
+		
+				<time>01:35 PM</time>
+			
+				<pred>0.68</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/02</date>
+				<day>Fri</day>
+		
+				<time>08:16 PM</time>
+			
+				<pred>6.36</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/03</date>
+				<day>Sat</day>
+		
+				<time>02:45 AM</time>
+			
+				<pred>1.54</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/03</date>
+				<day>Sat</day>
+		
+				<time>08:28 AM</time>
+			
+				<pred>4.93</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/03</date>
+				<day>Sat</day>
+		
+				<time>02:32 PM</time>
+			
+				<pred>1.15</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/03</date>
+				<day>Sat</day>
+		
+				<time>09:04 PM</time>
+			
+				<pred>6.51</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/04</date>
+				<day>Sun</day>
+		
+				<time>03:45 AM</time>
+			
+				<pred>0.99</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/04</date>
+				<day>Sun</day>
+		
+				<time>09:39 AM</time>
+			
+				<pred>4.90</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/04</date>
+				<day>Sun</day>
+		
+				<time>03:25 PM</time>
+			
+				<pred>1.54</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/04</date>
+				<day>Sun</day>
+		
+				<time>09:47 PM</time>
+			
+				<pred>6.66</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/05</date>
+				<day>Mon</day>
+		
+				<time>04:34 AM</time>
+			
+				<pred>0.47</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/05</date>
+				<day>Mon</day>
+		
+				<time>10:40 AM</time>
+			
+				<pred>5.01</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/05</date>
+				<day>Mon</day>
+		
+				<time>04:13 PM</time>
+			
+				<pred>1.85</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/05</date>
+				<day>Mon</day>
+		
+				<time>10:26 PM</time>
+			
+				<pred>6.79</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/06</date>
+				<day>Tue</day>
+		
+				<time>05:17 AM</time>
+			
+				<pred>0.01</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/06</date>
+				<day>Tue</day>
+		
+				<time>11:33 AM</time>
+			
+				<pred>5.17</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/06</date>
+				<day>Tue</day>
+		
+				<time>04:57 PM</time>
+			
+				<pred>2.09</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/06</date>
+				<day>Tue</day>
+		
+				<time>11:01 PM</time>
+			
+				<pred>6.88</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/07</date>
+				<day>Wed</day>
+		
+				<time>05:55 AM</time>
+			
+				<pred>-0.35</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/07</date>
+				<day>Wed</day>
+		
+				<time>12:18 PM</time>
+			
+				<pred>5.33</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/07</date>
+				<day>Wed</day>
+		
+				<time>05:38 PM</time>
+			
+				<pred>2.28</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/07</date>
+				<day>Wed</day>
+		
+				<time>11:36 PM</time>
+			
+				<pred>6.94</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/08</date>
+				<day>Thu</day>
+		
+				<time>06:31 AM</time>
+			
+				<pred>-0.61</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/08</date>
+				<day>Thu</day>
+		
+				<time>12:59 PM</time>
+			
+				<pred>5.47</pred>
+			
+			<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2017/06/08</date>
+				<day>Thu</day>
+		
+				<time>06:17 PM</time>
+			
+				<pred>2.43</pred>
+			
+			<highlow>L</highlow>
+			
+			</item>
+		
+		</data>
+</datainfo>
