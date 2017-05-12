@@ -1,0 +1,8 @@
+Lab4List.MainActivity, Lab4List;md5f800e225b936029f53ce7406ff50dfbe.MainActivity
+Lab4List.MainActivity, Lab4List, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f800e225b936029f53ce7406ff50dfbe.MainActivity
+Lab4List.MainActivity;md5f800e225b936029f53ce7406ff50dfbe.MainActivity
+lab4list.MainActivity;md5f800e225b936029f53ce7406ff50dfbe.MainActivity
+Lab4List.TideAdapter, Lab4List;md5f800e225b936029f53ce7406ff50dfbe.TideAdapter
+Lab4List.TideAdapter, Lab4List, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f800e225b936029f53ce7406ff50dfbe.TideAdapter
+Lab4List.TideAdapter;md5f800e225b936029f53ce7406ff50dfbe.TideAdapter
+lab4list.TideAdapter;md5f800e225b936029f53ce7406ff50dfbe.TideAdapter

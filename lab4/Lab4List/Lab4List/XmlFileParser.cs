@@ -14,8 +14,11 @@ namespace Lab4List
         public const string DATE = "date";
         public const string DAY = "day";
         public const string TIME = "time";
-        public const string PRED = "pred";
+        public const string PREDFT = "pred_in_ft";
+        public const string PREDCM = "pred_in_cm";
         public const string HIGHLOW = "highlow";
+        public const string FIRSTLINE = "firstline";
+        public const string SECONDLINE = "secondline";
 
         List<IDictionary<string, object>> tidelist;
         public List<IDictionary<string, object>> TideList { get { return tidelist; } }
@@ -40,6 +43,7 @@ namespace Lab4List
                             case DATE:
                                 if(reader.Read() && item != null)
                                 {
+                                    
                                     item.Add(DATE, reader.Value.Trim());
                                 }
                                 break;
@@ -47,6 +51,7 @@ namespace Lab4List
                                 if (reader.Read() && item != null)
                                 {
                                     item.Add(DAY, reader.Value.Trim());
+                                    item.Add(FIRSTLINE, item[DAY] + "  " + item[DATE]);
                                 }
                                 break;
                             case TIME:
@@ -55,16 +60,23 @@ namespace Lab4List
                                     item.Add(TIME, reader.Value.Trim());
                                 }
                                 break;
-                            case PRED:
+                            case PREDFT:
                                 if (reader.Read() && item != null)
                                 {
-                                    item.Add(PRED, reader.Value.Trim());
+                                    item.Add(PREDFT, reader.Value.Trim());
+                                }
+                                break;
+                            case PREDCM:
+                                if (reader.Read() && item != null)
+                                {
+                                    item.Add(PREDCM, reader.Value.Trim());
                                 }
                                 break;
                             case HIGHLOW:
                                 if (reader.Read() && item != null)
                                 {
                                     item.Add(HIGHLOW, reader.Value.Trim());
+                                    item.Add(SECONDLINE, item[TIME] + "--" + item[HIGHLOW]);
                                 }
                                 break;
                         }

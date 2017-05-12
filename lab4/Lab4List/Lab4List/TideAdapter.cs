@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using Android.Content;
+using Android.Views;
 using Android.Widget;
 using Java.Lang;
 
@@ -39,20 +40,28 @@ namespace Lab4List
             return sectionObjects;
         }
 
+        
+
+
+
+
+
+
         private void BuildSectionIndex()
         {
             monthIndex = new Dictionary<string, int>();
             for (int i = 0; i < Count; i++)
             {
-                //get the date string
-                string date = (string)tideList[i][XmlFileParser.DATE];
-                //use substring to get month
-                string key = date.Substring(5, 2);
+               
+                string temp = (string)tideList[i][XmlFileParser.DATE];
+                DateTime dt = Convert.ToDateTime(temp);
+                string key = dt.ToString("MMM");
 
                 if (!monthIndex.ContainsKey(key))
-                {
+                {              
                     monthIndex.Add(key, i);
                 }
+                
             }
 
             //get the number of sections
